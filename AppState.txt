@@ -1,0 +1,795 @@
+---------------
+Train set №3810:
+---------------
+Locomotive №9010
+Name: L1
+Speed: 105.73 km/h
+Home: Station №70
+From Station №55 to Station №99
+
+Railroad car №1002 - Post office railroad car
+Number of letters: 4300
+Gross weight: 32150 kg
+
+Railroad car №1001 - Baggage and mail railroad car
+Number of luggage: 170
+Gross weight: 34250 kg
+
+Railroad car №1000 - Explosive railroad car
+Transported explosives: TNT
+Gross weight: 61000 kg
+
+Railroad car №1003 - Toxic Railroad Car
+Transported Toxic Material: Uranium-235
+Gross Weight: 74000 kg
+
+Railroad car №1004 - Heavy freight railroad car
+Gross weight: 85000 kg
+
+---------------
+Train set №3811:
+---------------
+Locomotive №9011
+Name: L2
+Speed: 149.35 km/h
+Home: Station №79
+From Station №40 to Station №44
+
+Railroad car №1009 - Baggage and mail railroad car
+Number of luggage: 50
+Gross weight: 31250 kg
+
+Railroad car №1006 - Restaurant Railroad Car
+Number of Meals: 290
+Gross Weight: 31290 kg
+
+Railroad car №1005 - Baggage and mail railroad car
+Number of luggage: 140
+Gross weight: 33500 kg
+
+Railroad car №1007 - Explosive railroad car
+Transported explosives: TNT
+Gross weight: 78000 kg
+
+Railroad car №1008 - Heavy freight railroad car
+Gross weight: 82000 kg
+
+---------------
+Train set №3812:
+---------------
+Locomotive №9012
+Name: L3
+Speed: 122.22 km/h
+Home: Station №5
+From Station №11 to Station №82
+
+Railroad car №1014 - Post office railroad car
+Number of letters: 2800
+Gross weight: 31400 kg
+
+Railroad car №1011 - Liquid tank railroad car
+Transported liquid: Water
+Gross Weight: 67000 kg
+
+Railroad car №1013 - Explosive railroad car
+Transported explosives: TNT
+Gross weight: 73000 kg
+
+Railroad car №1012 - Heavy freight railroad car
+Gross weight: 104000 kg
+
+Railroad car №1010 - Heavy freight railroad car
+Gross weight: 105000 kg
+
+---------------
+Train set №3813:
+---------------
+Locomotive №9013
+Name: L4
+Speed: 128.04 km/h
+Home: Station №42
+From Station №90 to Station №10
+
+Railroad car №1018 - Post office railroad car
+Number of letters: 2100
+Gross weight: 31050 kg
+
+Railroad car №1015 - Restaurant Railroad Car
+Number of Meals: 200
+Gross Weight: 31200 kg
+
+Railroad car №1017 - Restaurant Railroad Car
+Number of Meals: 310
+Gross Weight: 31310 kg
+
+Railroad car №1016 - Gas tank railroad car
+Transported gas: Oxygen
+Gross weight: 45000 kg
+
+Railroad car №1019 - Refrigerator railroad car
+Gross weight: 50000 kg
+
+Railroad car №1020 - Freight railroad car
+Gross weight: 59000 kg
+
+---------------
+Train set №3814:
+---------------
+Locomotive №9014
+Name: L5
+Speed: 97.0 km/h
+Home: Station №16
+From Station №87 to Station №2
+
+Railroad car №1023 - Restaurant Railroad Car
+Number of Meals: 250
+Gross Weight: 31250 kg
+
+Railroad car №1025 - Restaurant Railroad Car
+Number of Meals: 340
+Gross Weight: 31340 kg
+
+Railroad car №1021 - Baggage and mail railroad car
+Number of luggage: 60
+Gross weight: 31500 kg
+
+Railroad car №1024 - Gas tank railroad car
+Transported gas: Oxygen
+Gross weight: 57000 kg
+
+Railroad car №1022 - Gas tank railroad car
+Transported gas: Oxygen
+Gross weight: 59000 kg
+
+Railroad car №1026 - Explosive railroad car
+Transported explosives: TNT
+Gross weight: 80000 kg
+
+---------------
+Train set №3815:
+---------------
+Locomotive №9015
+Name: L6
+Speed: 112.52 km/h
+Home: Station №11
+From Station №53 to Station №24
+
+Railroad car №1028 - Restaurant Railroad Car
+Number of Meals: 180
+Gross Weight: 31180 kg
+
+Railroad car №1027 - Post office railroad car
+Number of letters: 3600
+Gross weight: 31800 kg
+
+Railroad car №1029 - Refrigerator railroad car
+Gross weight: 51000 kg
+
+Railroad car №1030 - Liquid tank railroad car
+Transported liquid: Water
+Gross Weight: 51000 kg
+
+Railroad car №1031 - Liquid tank railroad car
+Transported liquid: Water
+Gross Weight: 68000 kg
+
+---------------
+Train set №3816:
+---------------
+Locomotive №9016
+Name: L7
+Speed: 138.71 km/h
+Home: Station №51
+From Station №8 to Station №53
+
+Railroad car №1032 - Baggage and mail railroad car
+Number of luggage: 70
+Gross weight: 31750 kg
+
+Railroad car №1040 - Post office railroad car
+Number of letters: 4500
+Gross weight: 32250 kg
+
+Railroad car №1036 - Passenger railroad car
+Number of passengers: 37
+Gross weight: 32405 kg
+
+Railroad car №1034 - Toxic Liquid Railroad Car
+Transported Toxic Liquid: Radioactive Waste
+Gross Weight: 60000 kg
+
+Railroad car №1039 - Refrigerator railroad car
+Gross weight: 60000 kg
+
+Railroad car №1033 - Toxic Railroad Car
+Transported Toxic Material: Uranium-235
+Gross Weight: 72000 kg
+
+Railroad car №1038 - Liquid tank railroad car
+Transported liquid: Water
+Gross Weight: 73000 kg
+
+Railroad car №1035 - Toxic Railroad Car
+Transported Toxic Material: Uranium-235
+Gross Weight: 88000 kg
+
+Railroad car №1037 - Heavy freight railroad car
+Gross weight: 102000 kg
+
+---------------
+Train set №3817:
+---------------
+Locomotive №9017
+Name: L8
+Speed: 146.26 km/h
+Home: Station №100
+From Station №58 to Station №88
+
+Railroad car №1045 - Post office railroad car
+Number of letters: 6800
+Gross weight: 33400 kg
+
+Railroad car №1044 - Baggage and mail railroad car
+Number of luggage: 140
+Gross weight: 33500 kg
+
+Railroad car №1043 - Refrigerator railroad car
+Gross weight: 42000 kg
+
+Railroad car №1041 - Freight railroad car
+Gross weight: 44000 kg
+
+Railroad car №1042 - Toxic Railroad Car
+Transported Toxic Material: Uranium-235
+Gross Weight: 96000 kg
+
+---------------
+Train set №3818:
+---------------
+Locomotive №9018
+Name: L9
+Speed: 154.5 km/h
+Home: Station №61
+From Station №6 to Station №85
+
+Railroad car №1048 - Restaurant Railroad Car
+Number of Meals: 110
+Gross Weight: 31110 kg
+
+Railroad car №1046 - Explosive railroad car
+Transported explosives: TNT
+Gross weight: 52000 kg
+
+Railroad car №1049 - Explosive railroad car
+Transported explosives: TNT
+Gross weight: 73000 kg
+
+Railroad car №1047 - Heavy freight railroad car
+Gross weight: 86000 kg
+
+---------------
+Train set №3819:
+---------------
+Locomotive №9019
+Name: L10
+Speed: 152.44 km/h
+Home: Station №71
+From Station №12 to Station №98
+
+Railroad car №1051 - Gas tank railroad car
+Transported gas: Oxygen
+Gross weight: 49000 kg
+
+Railroad car №1050 - Toxic Railroad Car
+Transported Toxic Material: Uranium-235
+Gross Weight: 98000 kg
+
+---------------
+Train set №3820:
+---------------
+Locomotive №9020
+Name: L11
+Speed: 103.0 km/h
+Home: Station №84
+From Station №48 to Station №54
+
+Railroad car №1055 - Freight railroad car
+Gross weight: 50000 kg
+
+Railroad car №1054 - Explosive railroad car
+Transported explosives: TNT
+Gross weight: 59000 kg
+
+Railroad car №1052 - Toxic Railroad Car
+Transported Toxic Material: Uranium-235
+Gross Weight: 63000 kg
+
+Railroad car №1053 - Toxic Railroad Car
+Transported Toxic Material: Uranium-235
+Gross Weight: 81000 kg
+
+Railroad car №1056 - Heavy freight railroad car
+Gross weight: 82000 kg
+
+---------------
+Train set №3821:
+---------------
+Locomotive №9021
+Name: L12
+Speed: 125.66 km/h
+Home: Station №78
+From Station №35 to Station №43
+
+Railroad car №1057 - Refrigerator railroad car
+Gross weight: 44000 kg
+
+Railroad car №1062 - Gas tank railroad car
+Transported gas: Oxygen
+Gross weight: 66000 kg
+
+Railroad car №1061 - Explosive railroad car
+Transported explosives: TNT
+Gross weight: 75000 kg
+
+Railroad car №1058 - Toxic Liquid Railroad Car
+Transported Toxic Liquid: Radioactive Waste
+Gross Weight: 77000 kg
+
+Railroad car №1059 - Toxic Liquid Railroad Car
+Transported Toxic Liquid: Radioactive Waste
+Gross Weight: 82000 kg
+
+Railroad car №1060 - Heavy freight railroad car
+Gross weight: 90000 kg
+
+---------------
+Train set №3822:
+---------------
+Locomotive №9022
+Name: L13
+Speed: 104.75999999999999 km/h
+Home: Station №69
+From Station №52 to Station №83
+
+Railroad car №1066 - Passenger railroad car
+Number of passengers: 6
+Gross weight: 30390 kg
+
+Railroad car №1063 - Restaurant Railroad Car
+Number of Meals: 100
+Gross Weight: 31100 kg
+
+Railroad car №1068 - Restaurant Railroad Car
+Number of Meals: 240
+Gross Weight: 31240 kg
+
+Railroad car №1069 - Post office railroad car
+Number of letters: 4800
+Gross weight: 32400 kg
+
+Railroad car №1065 - Freight railroad car
+Gross weight: 34000 kg
+
+Railroad car №1064 - Refrigerator railroad car
+Gross weight: 43000 kg
+
+Railroad car №1067 - Refrigerator railroad car
+Gross weight: 43000 kg
+
+---------------
+Train set №3823:
+---------------
+Locomotive №9023
+Name: L14
+Speed: 124.63000000000001 km/h
+Home: Station №18
+From Station №69 to Station №82
+
+Railroad car №1077 - Passenger railroad car
+Number of passengers: 4
+Gross weight: 30260 kg
+
+Railroad car №1073 - Passenger railroad car
+Number of passengers: 15
+Gross weight: 30975 kg
+
+Railroad car №1076 - Restaurant Railroad Car
+Number of Meals: 230
+Gross Weight: 31230 kg
+
+Railroad car №1070 - Post office railroad car
+Number of letters: 3700
+Gross weight: 31850 kg
+
+Railroad car №1078 - Baggage and mail railroad car
+Number of luggage: 120
+Gross weight: 33000 kg
+
+Railroad car №1074 - Baggage and mail railroad car
+Number of luggage: 180
+Gross weight: 34500 kg
+
+Railroad car №1072 - Refrigerator railroad car
+Gross weight: 45000 kg
+
+Railroad car №1075 - Toxic Liquid Railroad Car
+Transported Toxic Liquid: Radioactive Waste
+Gross Weight: 69000 kg
+
+Railroad car №1071 - Heavy freight railroad car
+Gross weight: 87000 kg
+
+---------------
+Train set №3824:
+---------------
+Locomotive №9024
+Name: L15
+Speed: 122.57000000000001 km/h
+Home: Station №94
+From Station №5 to Station №50
+
+Railroad car №1079 - Refrigerator railroad car
+Gross weight: 44000 kg
+
+Railroad car №1080 - Liquid tank railroad car
+Transported liquid: Water
+Gross Weight: 51000 kg
+
+Railroad car №1081 - Explosive railroad car
+Transported explosives: TNT
+Gross weight: 51000 kg
+
+Railroad car №1084 - Liquid tank railroad car
+Transported liquid: Water
+Gross Weight: 67000 kg
+
+Railroad car №1082 - Toxic Railroad Car
+Transported Toxic Material: Uranium-235
+Gross Weight: 74000 kg
+
+Railroad car №1083 - Toxic Railroad Car
+Transported Toxic Material: Uranium-235
+Gross Weight: 75000 kg
+
+---------------
+Train set №3825:
+---------------
+Locomotive №9025
+Name: L16
+Speed: 106.7 km/h
+Home: Station №91
+From Station №16 to Station №37
+
+Railroad car №1085 - Post office railroad car
+Number of letters: 3100
+Gross weight: 31550 kg
+
+Railroad car №1088 - Passenger railroad car
+Number of passengers: 25
+Gross weight: 31625 kg
+
+Railroad car №1086 - Post office railroad car
+Number of letters: 3800
+Gross weight: 31900 kg
+
+Railroad car №1091 - Refrigerator railroad car
+Gross weight: 47000 kg
+
+Railroad car №1089 - Liquid tank railroad car
+Transported liquid: Water
+Gross Weight: 57000 kg
+
+Railroad car №1090 - Liquid tank railroad car
+Transported liquid: Water
+Gross Weight: 59000 kg
+
+Railroad car №1087 - Liquid tank railroad car
+Transported liquid: Water
+Gross Weight: 70000 kg
+
+---------------
+Train set №3826:
+---------------
+Locomotive №9026
+Name: L17
+Speed: 136.77 km/h
+Home: Station №41
+From Station №96 to Station №50
+
+Railroad car №1095 - Post office railroad car
+Number of letters: 2000
+Gross weight: 31000 kg
+
+Railroad car №1097 - Baggage and mail railroad car
+Number of luggage: 160
+Gross weight: 34000 kg
+
+Railroad car №1094 - Freight railroad car
+Gross weight: 40000 kg
+
+Railroad car №1093 - Gas tank railroad car
+Transported gas: Oxygen
+Gross weight: 69000 kg
+
+Railroad car №1096 - Toxic Liquid Railroad Car
+Transported Toxic Liquid: Radioactive Waste
+Gross Weight: 77000 kg
+
+Railroad car №1092 - Toxic Liquid Railroad Car
+Transported Toxic Liquid: Radioactive Waste
+Gross Weight: 80000 kg
+
+---------------
+Train set №3827:
+---------------
+Locomotive №9027
+Name: L18
+Speed: 145.23 km/h
+Home: Station №6
+From Station №14 to Station №50
+
+Railroad car №1103 - Passenger railroad car
+Number of passengers: 11
+Gross weight: 30715 kg
+
+Railroad car №1100 - Post office railroad car
+Number of letters: 2300
+Gross weight: 31150 kg
+
+Railroad car №1102 - Freight railroad car
+Gross weight: 56000 kg
+
+Railroad car №1101 - Refrigerator railroad car
+Gross weight: 60000 kg
+
+Railroad car №1098 - Explosive railroad car
+Transported explosives: TNT
+Gross weight: 65000 kg
+
+Railroad car №1099 - Liquid tank railroad car
+Transported liquid: Water
+Gross Weight: 69000 kg
+
+---------------
+Train set №3828:
+---------------
+Locomotive №9028
+Name: L19
+Speed: 127.07 km/h
+Home: Station №98
+From Station №69 to Station №87
+
+Railroad car №1109 - Passenger railroad car
+Number of passengers: 44
+Gross weight: 32860 kg
+
+Railroad car №1107 - Freight railroad car
+Gross weight: 39000 kg
+
+Railroad car №1108 - Toxic Railroad Car
+Transported Toxic Material: Uranium-235
+Gross Weight: 62000 kg
+
+Railroad car №1104 - Toxic Liquid Railroad Car
+Transported Toxic Liquid: Radioactive Waste
+Gross Weight: 72000 kg
+
+Railroad car №1106 - Gas tank railroad car
+Transported gas: Oxygen
+Gross weight: 75000 kg
+
+Railroad car №1105 - Heavy freight railroad car
+Gross weight: 81000 kg
+
+---------------
+Train set №3829:
+---------------
+Locomotive №9029
+Name: L20
+Speed: 111.55 km/h
+Home: Station №52
+From Station №24 to Station №2
+
+Railroad car №1113 - Passenger railroad car
+Number of passengers: 2
+Gross weight: 30130 kg
+
+Railroad car №1110 - Restaurant Railroad Car
+Number of Meals: 160
+Gross Weight: 31160 kg
+
+Railroad car №1112 - Baggage and mail railroad car
+Number of luggage: 80
+Gross weight: 32000 kg
+
+Railroad car №1115 - Baggage and mail railroad car
+Number of luggage: 140
+Gross weight: 33500 kg
+
+Railroad car №1111 - Gas tank railroad car
+Transported gas: Oxygen
+Gross weight: 47000 kg
+
+Railroad car №1114 - Explosive railroad car
+Transported explosives: TNT
+Gross weight: 54000 kg
+
+Railroad car №1117 - Toxic Liquid Railroad Car
+Transported Toxic Liquid: Radioactive Waste
+Gross Weight: 64000 kg
+
+Railroad car №1116 - Explosive railroad car
+Transported explosives: TNT
+Gross weight: 75000 kg
+
+---------------
+Train set №3830:
+---------------
+Locomotive №9030
+Name: L21
+Speed: 127.07 km/h
+Home: Station №16
+From Station №81 to Station №23
+
+Railroad car №1120 - Passenger railroad car
+Number of passengers: 13
+Gross weight: 30845 kg
+
+Railroad car №1121 - Passenger railroad car
+Number of passengers: 20
+Gross weight: 31300 kg
+
+Railroad car №1122 - Toxic Liquid Railroad Car
+Transported Toxic Liquid: Radioactive Waste
+Gross Weight: 61000 kg
+
+Railroad car №1124 - Heavy freight railroad car
+Gross weight: 80000 kg
+
+Railroad car №1123 - Heavy freight railroad car
+Gross weight: 81000 kg
+
+Railroad car №1118 - Toxic Liquid Railroad Car
+Transported Toxic Liquid: Radioactive Waste
+Gross Weight: 82000 kg
+
+Railroad car №1119 - Toxic Liquid Railroad Car
+Transported Toxic Liquid: Radioactive Waste
+Gross Weight: 88000 kg
+
+---------------
+Train set №3831:
+---------------
+Locomotive №9031
+Name: L22
+Speed: 117.42 km/h
+Home: Station №10
+From Station №40 to Station №12
+
+Railroad car №1128 - Restaurant Railroad Car
+Number of Meals: 340
+Gross Weight: 31340 kg
+
+Railroad car №1130 - Post office railroad car
+Number of letters: 4200
+Gross weight: 32100 kg
+
+Railroad car №1125 - Freight railroad car
+Gross weight: 43000 kg
+
+Railroad car №1129 - Refrigerator railroad car
+Gross weight: 46000 kg
+
+Railroad car №1126 - Freight railroad car
+Gross weight: 53000 kg
+
+Railroad car №1127 - Gas tank railroad car
+Transported gas: Oxygen
+Gross weight: 59000 kg
+
+---------------
+Train set №3832:
+---------------
+Locomotive №9032
+Name: L23
+Speed: 110.21000000000001 km/h
+Home: Station №66
+From Station №24 to Station №100
+
+Railroad car №1133 - Passenger railroad car
+Number of passengers: 3
+Gross weight: 30195 kg
+
+Railroad car №1131 - Restaurant Railroad Car
+Number of Meals: 100
+Gross Weight: 31100 kg
+
+Railroad car №1137 - Restaurant Railroad Car
+Number of Meals: 350
+Gross Weight: 31350 kg
+
+Railroad car №1132 - Refrigerator railroad car
+Gross weight: 57000 kg
+
+Railroad car №1136 - Refrigerator railroad car
+Gross weight: 57000 kg
+
+Railroad car №1134 - Toxic Railroad Car
+Transported Toxic Material: Uranium-235
+Gross Weight: 70000 kg
+
+Railroad car №1135 - Gas tank railroad car
+Transported gas: Oxygen
+Gross weight: 71000 kg
+
+---------------
+Train set №3833:
+---------------
+Locomotive №9033
+Name: L24
+Speed: 132.87 km/h
+Home: Station №42
+From Station №41 to Station №45
+
+Railroad car №1144 - Passenger railroad car
+Number of passengers: 0
+Gross weight: 30000 kg
+
+Railroad car №1142 - Baggage and mail railroad car
+Number of luggage: 140
+Gross weight: 33500 kg
+
+Railroad car №1141 - Refrigerator railroad car
+Gross weight: 43000 kg
+
+Railroad car №1140 - Gas tank railroad car
+Transported gas: Oxygen
+Gross weight: 49000 kg
+
+Railroad car №1145 - Refrigerator railroad car
+Gross weight: 58000 kg
+
+Railroad car №1138 - Toxic Railroad Car
+Transported Toxic Material: Uranium-235
+Gross Weight: 65000 kg
+
+Railroad car №1139 - Toxic Liquid Railroad Car
+Transported Toxic Liquid: Radioactive Waste
+Gross Weight: 73000 kg
+
+Railroad car №1143 - Toxic Liquid Railroad Car
+Transported Toxic Liquid: Radioactive Waste
+Gross Weight: 77000 kg
+
+---------------
+Train set №3834:
+---------------
+Locomotive №9034
+Name: L25
+Speed: 119.31 km/h
+Home: Station №21
+From Station №12 to Station №10
+
+Railroad car №1147 - Post office railroad car
+Number of letters: 2300
+Gross weight: 31150 kg
+
+Railroad car №1150 - Baggage and mail railroad car
+Number of luggage: 130
+Gross weight: 33250 kg
+
+Railroad car №1146 - Baggage and mail railroad car
+Number of luggage: 150
+Gross weight: 33750 kg
+
+Railroad car №1148 - Toxic Liquid Railroad Car
+Transported Toxic Liquid: Radioactive Waste
+Gross Weight: 75000 kg
+
+Railroad car №1149 - Toxic Liquid Railroad Car
+Transported Toxic Liquid: Radioactive Waste
+Gross Weight: 81000 kg
+
+Railroad car №1151 - Heavy freight railroad car
+Gross weight: 96000 kg
+
